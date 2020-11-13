@@ -66,6 +66,10 @@ ul{
     text-align: justify;
 }
 
+a{
+    color: white;
+}
+
 .h2-underlineglobal{
     border: 10px solid #00a500;
     border-radius: 5px;
